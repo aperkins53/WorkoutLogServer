@@ -1,6 +1,7 @@
 ##Endpoint Test
 
-###User Register [Register] (./assets/register.PNG)
+###User Register 
+![Register] (./assets/register.PNG)
 
 ###User Login
 (./assets/login.PNG)
